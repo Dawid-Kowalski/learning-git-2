@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Archivo");
 body {
   background-color: black;
-  color: white; }
+  color: white;
+  font-family: 'Archivo', sans-serif; }
 
 /*# sourceMappingURL=style.css.map */
