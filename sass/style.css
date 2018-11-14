@@ -2,6 +2,21 @@
 body {
   background-color: black;
   color: white;
-  font-family: 'Archivo', sans-serif; }
+  font-family: "Archivo", sans-serif; }
+
+.title {
+  text-align: center; }
+
+.band {
+  color: red;
+  text-align: center; }
+
+.text {
+  font-family: "Archivo", sans-serif;
+  margin: 0 auto;
+  white-space: pre-line; }
+
+.center {
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */

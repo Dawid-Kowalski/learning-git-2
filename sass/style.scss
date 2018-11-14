@@ -1,19 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo');
 
+$font: 'Archivo', sans-serif;
+
 body {
 	background-color: black;
 	color: white;
-	font-family: 'Archivo', sans-serif;
+	font-family: $font;
 }
 
 .title {
-	
+	text-align: center;
 }
 
 .band {
-	
+	color: red;
+	text-align: center;
 }
 
 .text {
-	
+	font-family: $font;
+	margin: 0 auto;
+	white-space: pre-line;
+}
+
+.center {
+	text-align: center;
 }
