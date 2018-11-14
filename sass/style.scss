@@ -2,26 +2,29 @@
 
 $font: 'Archivo', sans-serif;
 
+/* for all */
+
 body {
 	background-color: black;
 	color: white;
 	font-family: $font;
 }
 
-.title {
-	text-align: center;
-}
+/* for title */
 
 .band {
 	color: red;
-	text-align: center;
 }
+
+/*for text */
 
 .text {
 	font-family: $font;
 	margin: 0 auto;
 	white-space: pre-line;
 }
+
+/*helpers*/
 
 .center {
 	text-align: center;
