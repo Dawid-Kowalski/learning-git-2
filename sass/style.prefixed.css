@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Archivo");
+/* for all */
+body {
+  background-color: black;
+  color: white;
+  font-family: "Archivo", sans-serif; }
+
+/* for title */
+.band {
+  color: red;
+  text-decoration: underline; }
+
+/*for text */
+.text {
+  font-family: "Archivo", sans-serif;
+  margin: 0 auto;
+  white-space: pre-line; }
+
+/*helpers*/
+.center {
+  text-align: center; }
+
+/*# sourceMappingURL=style.prefixed.css.map */

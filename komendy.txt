@@ -1,0 +1,9 @@
+/* autoprefix-cli  czytanie z style.css i zapisywanie do style.prefixed.css */
+
+node_modules/.bin/autoprefixer-cli -o sass/style.prefixed.css sass/style.css
+
+/* sprawdzanie b³êdów we wszystkich plikach html */
+
+node_modules/.bin/nu-html-checker *.html
+
+
